@@ -1,0 +1,4 @@
+#Thu Jun 08 14:39:34 CST 2017
+base.0=/home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/build/intermediates/transforms/dexMerger/debug/12
+renamed.0=classes.dex
+file.0=/home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/build/intermediates/transforms/dexMerger/debug/12/classes.dex

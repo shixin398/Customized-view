@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=449827ef80ab779360ffcf8216f5b10bc67a2a64
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

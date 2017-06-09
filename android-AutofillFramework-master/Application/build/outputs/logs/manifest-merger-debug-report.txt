@@ -1,0 +1,214 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:18:1-95:12
+INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:18:1-95:12
+INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:18:1-95:12
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/860a4988ff346d00f00cd89e91570b6c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v13:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0-beta1.aar/aebb57e5d948771c8f7ff38a31a48f23/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-beta1.aar/bb6433c892b84f2bb8256f5903a02f75/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/96e9a03a657afe2141d8f8e753858123/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/6b2dc1d1ebc7e73924ed8c91ae2da46f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/aa9de80c2c904e6f15bf0eb7205ecb6b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/e3356a0b0bed5e0c77a97be9cb18a838/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c9c341a45d5a0e8590f7d47ec322a947/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/62efcd0ce1fb09b522ccc28f5602fbcc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/cf3ec45867592cb38993fc0ad6cfc498/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/70d91c501d6894c8c549febbe134ef1c/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:18:1-95:12
+INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:18:1-95:12
+	package
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:19:5-52
+	android:versionName
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+application
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:23:5-93:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/860a4988ff346d00f00cd89e91570b6c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/860a4988ff346d00f00cd89e91570b6c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0-beta1.aar/aebb57e5d948771c8f7ff38a31a48f23/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0-beta1.aar/aebb57e5d948771c8f7ff38a31a48f23/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-beta1.aar/bb6433c892b84f2bb8256f5903a02f75/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-beta1.aar/bb6433c892b84f2bb8256f5903a02f75/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/96e9a03a657afe2141d8f8e753858123/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/96e9a03a657afe2141d8f8e753858123/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/6b2dc1d1ebc7e73924ed8c91ae2da46f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/6b2dc1d1ebc7e73924ed8c91ae2da46f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/aa9de80c2c904e6f15bf0eb7205ecb6b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/aa9de80c2c904e6f15bf0eb7205ecb6b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/e3356a0b0bed5e0c77a97be9cb18a838/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/e3356a0b0bed5e0c77a97be9cb18a838/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c9c341a45d5a0e8590f7d47ec322a947/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c9c341a45d5a0e8590f7d47ec322a947/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/62efcd0ce1fb09b522ccc28f5602fbcc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/62efcd0ce1fb09b522ccc28f5602fbcc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/cf3ec45867592cb38993fc0ad6cfc498/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/cf3ec45867592cb38993fc0ad6cfc498/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/70d91c501d6894c8c549febbe134ef1c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/70d91c501d6894c8c549febbe134ef1c/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:28:9-53
+activity#com.example.android.autofillframework.app.MainActivity
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:31:13-36
+	android:taskAffinity
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:30:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:35:27-74
+activity#com.example.android.autofillframework.app.StandardSignInActivity
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:38:9-42:20
+	android:label
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:40:13-45
+	android:taskAffinity
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:41:13-59
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:39:13-55
+activity#com.example.android.autofillframework.app.StandardAutoCompleteSignInActivity
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:43:9-46:74
+	android:label
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:45:13-45
+	android:taskAffinity
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:46:13-71
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:44:13-67
+activity#com.example.android.autofillframework.app.VirtualSignInActivity
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:47:9-52:20
+	android:label
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:49:13-44
+	android:taskAffinity
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:50:13-58
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:48:13-54
+activity#com.example.android.autofillframework.app.WelcomeActivity
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:53:9-57
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:53:19-54
+activity#com.example.android.autofillframework.app.CreditCardActivity
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:54:9-58:20
+	android:label
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:56:13-42
+	android:taskAffinity
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:57:13-55
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:55:13-51
+activity#com.example.android.autofillframework.service.settings.SettingsActivity
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:63:9-72:20
+	android:label
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:66:13-50
+	android:exported
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:65:13-36
+	android:taskAffinity
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:67:13-53
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:64:13-62
+service#com.example.android.autofillframework.service.MyAutofillService
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:79:9-90:19
+	android:label
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:82:13-52
+	android:permission
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:81:13-66
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:80:13-54
+meta-data#android.autofill
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:83:13-85:60
+	android:resource
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:85:17-57
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:84:17-48
+intent-filter#android.service.autofill.AutofillService
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:87:13-89:29
+action#android.service.autofill.AutofillService
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:88:17-83
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:88:25-80
+activity#com.example.android.autofillframework.service.AuthActivity
+ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:92:9-58
+	android:name
+		ADDED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml:92:19-55
+uses-sdk
+INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/860a4988ff346d00f00cd89e91570b6c/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/860a4988ff346d00f00cd89e91570b6c/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v13:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0-beta1.aar/aebb57e5d948771c8f7ff38a31a48f23/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0-beta1.aar/aebb57e5d948771c8f7ff38a31a48f23/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-beta1.aar/bb6433c892b84f2bb8256f5903a02f75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-beta1.aar/bb6433c892b84f2bb8256f5903a02f75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/96e9a03a657afe2141d8f8e753858123/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/96e9a03a657afe2141d8f8e753858123/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/6b2dc1d1ebc7e73924ed8c91ae2da46f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/6b2dc1d1ebc7e73924ed8c91ae2da46f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/aa9de80c2c904e6f15bf0eb7205ecb6b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/aa9de80c2c904e6f15bf0eb7205ecb6b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/e3356a0b0bed5e0c77a97be9cb18a838/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/e3356a0b0bed5e0c77a97be9cb18a838/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c9c341a45d5a0e8590f7d47ec322a947/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c9c341a45d5a0e8590f7d47ec322a947/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/62efcd0ce1fb09b522ccc28f5602fbcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/62efcd0ce1fb09b522ccc28f5602fbcc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/cf3ec45867592cb38993fc0ad6cfc498/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/cf3ec45867592cb38993fc0ad6cfc498/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/70d91c501d6894c8c549febbe134ef1c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/70d91c501d6894c8c549febbe134ef1c/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/860a4988ff346d00f00cd89e91570b6c/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/local/SPREADTRUM/shitao.li/AsCode/Demo/android-AutofillFramework-master/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/860a4988ff346d00f00cd89e91570b6c/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-v13:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0-beta1.aar/aebb57e5d948771c8f7ff38a31a48f23/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-v13:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0-beta1.aar/aebb57e5d948771c8f7ff38a31a48f23/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:cardview-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-beta1.aar/bb6433c892b84f2bb8256f5903a02f75/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:cardview-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-beta1.aar/bb6433c892b84f2bb8256f5903a02f75/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/96e9a03a657afe2141d8f8e753858123/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/96e9a03a657afe2141d8f8e753858123/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/6b2dc1d1ebc7e73924ed8c91ae2da46f/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/6b2dc1d1ebc7e73924ed8c91ae2da46f/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/aa9de80c2c904e6f15bf0eb7205ecb6b/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/aa9de80c2c904e6f15bf0eb7205ecb6b/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/e3356a0b0bed5e0c77a97be9cb18a838/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/e3356a0b0bed5e0c77a97be9cb18a838/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c9c341a45d5a0e8590f7d47ec322a947/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/c9c341a45d5a0e8590f7d47ec322a947/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/62efcd0ce1fb09b522ccc28f5602fbcc/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/62efcd0ce1fb09b522ccc28f5602fbcc/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/cf3ec45867592cb38993fc0ad6cfc498/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/cf3ec45867592cb38993fc0ad6cfc498/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/70d91c501d6894c8c549febbe134ef1c/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/70d91c501d6894c8c549febbe134ef1c/AndroidManifest.xml:26:9-28:44
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/860a4988ff346d00f00cd89e91570b6c/AndroidManifest.xml:28:13-41
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0-beta1] /home/local/SPREADTRUM/shitao.li/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/860a4988ff346d00f00cd89e91570b6c/AndroidManifest.xml:27:13-51
